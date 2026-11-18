@@ -21,4 +21,5 @@ Describe my C experiment.
 Instructions for compiling and running my code.
 
 ## Additional Resources
+- Template: https://www.canva.com/design/DAHbOMnfjHE/bPhRhpPEE0ZzIu866DqfKA/edit
 Links to useful learning resources.
