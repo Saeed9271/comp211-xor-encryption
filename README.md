@@ -50,5 +50,5 @@ Expected output:
 
 ## Additional Resources
 - Presentation Template: https://www.canva.com/design/DAHbOMnfjHE/bPhRhpPEE0ZzIu866DqfKA/edit
-- ChatGPT Learning Conversation: 
-- Presentation Slides: 
+- ChatGPT Learning Conversation: https://chatgpt.com/share/6afe800e-d558-83ea-ba33-40e99309115b
+- Presentation Slides: https://docs.google.com/presentation/d/1nfOURZE_2WMYL98Ym4f81-uC6KmBkXJc/edit?usp=sharing&ouid=117098691972781698428&rtpof=true&sd=true
